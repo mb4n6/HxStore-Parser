@@ -63,11 +63,11 @@ Options:
 
 Three files are created side by side after running:
 
-| File | Content | Size |
-|------|---------|------|
-| `*.decompressed` | Flat binary, all records with 16-byte header | ~246 MB |
-| `*.db` | SQLite: records + HTML bodies + metadata | ~91 MB |
-| `*.report.html` | Interactive browser-based report | ~1.6 MB |
+| File | Content | 
+|------|---------|
+| `*.decompressed` | Flat binary, all records with 16-byte header | 
+| `*.db` | SQLite: records + HTML bodies + metadata | 
+| `*.report.html` | Interactive browser-based report | 
 
 ---
 
